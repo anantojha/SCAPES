@@ -1,15 +1,10 @@
-#--------------------------------------------------------------------------------------------#
-#		         COMP 3004 Software Engineering Project 			     					 #
-#											     											 #
-#				   SCAPES PROJECT D2 					     								 #
-#											     											 #
-#			            BY: SCAPE GOAT					     								 #
-#											     											 #
-#--------------------------------------------------------------------------------------------#
+COMP 3004 Software Engineering Project 			     					
+SCAPES PROJECT D2 					     				
+TEAM: SCAPEGOAT #39					     								
 
 Team Memebrs: 	Anant Ojha	
-				Ethan Leider	
-				Raymond Lau	
+		Ethan Leider	
+		Raymond Lau	
 
 
 
