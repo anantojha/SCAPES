@@ -1,6 +1,6 @@
 COMP 3004 Software Engineering Project 
 
-SCAPES PROJECT D2 
+SCAPES PROJECT FINAL 
 
 TEAM: SCAPEGOAT #39					     								
 
