@@ -1,10 +1,10 @@
-COMP 3004 Software Engineering Project 		\n	     					
-SCAPES PROJECT D2 				\n	     				
-TEAM: SCAPEGOAT #39				\n	     								
+COMP 3004 Software Engineering Project 		\	     					
+SCAPES PROJECT D2 				\	     				
+TEAM: SCAPEGOAT #39				\	     								
 
-Team Memebrs: 	Anant Ojha	
-		Ethan Leider	
-		Raymond Lau	
+Team Memebrs: 	Anant Ojha			\	
+		Ethan Leider			\	
+		Raymond Lau 			\	
 
 
 
