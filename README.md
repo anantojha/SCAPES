@@ -1,6 +1,6 @@
-COMP 3004 Software Engineering Project 			     					
-SCAPES PROJECT D2 					     				
-TEAM: SCAPEGOAT #39					     								
+COMP 3004 Software Engineering Project 		\n	     					
+SCAPES PROJECT D2 				\n	     				
+TEAM: SCAPEGOAT #39				\n	     								
 
 Team Memebrs: 	Anant Ojha	
 		Ethan Leider	
