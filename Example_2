@@ -1,0 +1,46 @@
+#Example 2
+#nested loop
+
+# declare index variables
+dci indexA
+dci indexB
+
+# initialize first index to 0
+mov 0 indexA
+
+# start outer loop
+L1: cmp indexA 5
+
+# initialize second index to 0
+mov 0 indexB
+
+# break for outer loop
+jeq L2
+
+# print first index
+prt indexA
+
+# increment first index by 1
+add 1 indexA
+
+# jump into inner loop
+jls L3
+
+# start inner loop
+L3: cmp indexB 5
+
+# break from inner loop back to outer loop
+jeq L1
+
+# print second index
+jls L4
+L4: prt indexB
+
+# increment second index by 1
+add 1 indexB
+
+# begin new iteration of inner loop
+jmp L3
+
+# end program, after breaking from outer loop
+L2: end

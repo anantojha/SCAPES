@@ -1,0 +1,38 @@
+#Example 1
+#Simple Loop populating an array
+
+#declare array with size of 5 
+dca arr 5
+
+#declare index variable
+dci index
+
+#assign index value of 0
+mov 0 index
+
+#start loop
+L1: cmp index 5
+
+#end of loop
+jeq L2
+
+#keep interating/populating array
+jls L3
+
+#break from loop
+L2: jmp L5
+
+#populate array element
+L3: rdi $arr+index
+
+#print arr element
+prt $arr+index
+
+#increment index by 1
+add 1 index
+
+#start new iteration of loop
+jmp L1
+
+#end program (after breaking)
+L5: end
