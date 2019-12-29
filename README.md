@@ -16,7 +16,7 @@ Team Memebrs:
 
 DESCRIPTION:	SCAPES
 
-	SCAPES is an Intergrated Development Environment (IDE) with a custom compiler that 
+	SCAPES is an Integrated Development Environment (IDE) with a custom compiler that 
 	provides support for SCAPL programs. The application can be used to edit, compile
 	and finally run programs  written in SCAPL. 
 
